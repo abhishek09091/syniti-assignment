@@ -18,7 +18,7 @@ Software needs to available in the system
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/abhishek09091/syniti-assignment.git
    ```
 2. cd the directory
    ```shell
